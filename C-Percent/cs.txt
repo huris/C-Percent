@@ -1,0 +1,5 @@
+int main(){
+    char a = 'c';
+    write(a);
+    return 0;
+}
